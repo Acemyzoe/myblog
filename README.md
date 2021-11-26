@@ -1,3 +1,3 @@
 # myblog
-blog back up
+blog backup
 img uploader
